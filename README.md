@@ -82,7 +82,8 @@ run app.py
 
 ## Fonctionnalités et utilisation:
 L'application web de ce projet offre une interface intuitive et conviviale pour visualiser les résultats de l'analyse de données et les prédictions de désabonnement en temps réel. Elle permet aux utilisateurs d'accéder à des informations précieuses pour comprendre le comportement des clients, identifier les risques de désabonnement et prendre des mesures proactives pour fidéliser la clientèle.
-![Application web](web_interface.png)
+![Application web](web_interface1.jpg)
+![Application web](web_interface2.jpg)
 
 ## Contributeurs:
 
